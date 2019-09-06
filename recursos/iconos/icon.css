@@ -2,10 +2,8 @@
 
 @font-face {
   font-family: "sitio-mascotas";
-  src:url("fonts/sitio-mascotas.eot");
-  src:url("fonts/sitio-mascotas.eot?#iefix") format("embedded-opentype"),
-    url("fonts/sitio-mascotas.woff") format("woff"),
-    url("fonts/sitio-mascotas.ttf") format("truetype"),
+  
+    src:url("fonts/sitio-mascotas.ttf") format("truetype"),
     url("fonts/sitio-mascotas.svg#sitio-mascotas") format("svg");
   font-weight: normal;
   font-style: normal;
